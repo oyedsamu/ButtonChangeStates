@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Button Change States</string>
+    <string name="btnval">Click me!</string>
+</resources>
